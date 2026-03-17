@@ -1,0 +1,1 @@
+Code for weighting 16-18 yearld added to the elecotrate, so now will inlcude 16-18, plus other age groups. Demogrpahics age, sex, age-sex, ethncitiy, education of 16-18 year olds. For England and Wales and Scotland 
